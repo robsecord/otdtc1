@@ -1,0 +1,26 @@
+{
+  "name": "OTD-Token",
+  "version": "1.0.0",
+  "description": "Ethereum Smart Contract for OwnTheDay - Blockchain Collectibles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeroblood/OTD-Token-Contract.git"
+  },
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xeroblood <owntheday.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xeroblood/OTD-Token-Contract/issues"
+  },
+  "homepage": "https://github.com/xeroblood/OTD-Token-Contract#readme",
+  "devDependencies": {
+    "zeppelin-solidity": "1.7.0"
+  }
+}
